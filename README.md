@@ -1,1 +1,1 @@
-# comp-geom
+# compgeom
